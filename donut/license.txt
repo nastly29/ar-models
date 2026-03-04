@@ -1,0 +1,8 @@
+Model Information:
+* title:	Donut
+* source:	https://sketchfab.com/3d-models/donut-8106b2eb2d7f4ba1982bb432d176fb32
+* author:	devmate_ (https://sketchfab.com/devmate_)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
