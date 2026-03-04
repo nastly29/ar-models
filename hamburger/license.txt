@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hamburger 3d Model
+* source:	https://sketchfab.com/3d-models/hamburger-3d-model-be0917d648804f1ea711a2456946b201
+* author:	gbrain143186 (https://sketchfab.com/Madoes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hamburger 3d Model" (https://sketchfab.com/3d-models/hamburger-3d-model-be0917d648804f1ea711a2456946b201) by gbrain143186 (https://sketchfab.com/Madoes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
